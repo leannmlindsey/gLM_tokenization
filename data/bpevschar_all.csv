@@ -1,0 +1,62 @@
+Model,Benchmark,Task,Category,Layers,char-acc,bpe-acc,char-mcc,bpe-mcc
+Mamba,Nucleotide Transformer Tasks,H3,emp,4,0.885,0.870,0.774,0.780
+Mamba,Nucleotide Transformer Tasks,H3K14ac,emp,4,0.684,0.770,0.399,0.596
+Mamba,Nucleotide Transformer Tasks,H3K36me3,emp,4,0.723,0.769,0.489,0.573
+Mamba,Nucleotide Transformer Tasks,H3K4me1,emp,4,0.696,0.733,0.405,0.483
+Mamba,Nucleotide Transformer Tasks,H3K4me2,emp,4,0.613,0.726,0.198,0.463
+Mamba,Nucleotide Transformer Tasks,H3K4me3,emp,4,0.609,0.742,0.176,0.523
+Mamba,Nucleotide Transformer Tasks,H3K79me3,emp,4,0.808,0.798,0.608,0.632
+Mamba,Nucleotide Transformer Tasks,H3K9ac,emp,4,0.762,0.774,0.535,0.555
+Mamba,Nucleotide Transformer Tasks,H4,emp,4,0.893,0.876,0.786,0.754
+Mamba,Nucleotide Transformer Tasks,H4ac,emp,4,0.709,0.767,0.441,0.522
+Mamba,Nucleotide Transformer Tasks,promoter_all,promoter,4,0.960,0.953,0.914,0.907
+Mamba,Nucleotide Transformer Tasks,promoter_no_tata,promoter,4,0.964,0.954,0.931,0.908
+Mamba,Nucleotide Transformer Tasks,promoter_tata,promoter,4,0.944,0.934,0.895,error
+Mamba,Nucleotide Transformer Tasks,splice_sites_all,splice sites,4,0.952,0.612,0.068,0.341
+Mamba,Nucleotide Transformer Tasks,splice_sites_acceptors,splice sites,4,0.911,0.755,0.827,0.593
+Mamba,Nucleotide Transformer Tasks,splice_sites_donors,splice sites,4,0.888,0.748,0.776,0.536
+Mamba,Nucleotide Transformer Tasks,enhancers,enhancers,4,0.750,0.735,0.224,0.222
+Mamba,Nucleotide Transformer Tasks,enhancers_types,enhancers,4,0.596,0.597,0.256,0.284
+Mamba,Nucleotide Transformer Tasks,H3,emp,8,0.897,0.885,0.797,0.780
+Mamba,Nucleotide Transformer Tasks,H3K14ac,emp,8,0.802,0.799,0.555,0.591
+Mamba,Nucleotide Transformer Tasks,H3K36me3,emp,8,0.793,0.785,0.600,0.578
+Mamba,Nucleotide Transformer Tasks,H3K4me1,emp,8,0.737,0.748,0.497,0.487
+Mamba,Nucleotide Transformer Tasks,H3K4me2,emp,8,0.714,0.740,0.361,0.460
+Mamba,Nucleotide Transformer Tasks,H3K4me3,emp,8,0.616,0.758,0.288,0.521
+Mamba,Nucleotide Transformer Tasks,H3K79me3,emp,8,0.836,0.823,0.667,0.634
+Mamba,Nucleotide Transformer Tasks,H3K9ac,emp,8,0.799,0.788,0.589,0.563
+Mamba,Nucleotide Transformer Tasks,H4,emp,8,0.899,0.879,0.791,0.754
+Mamba,Nucleotide Transformer Tasks,H4ac,emp,8,0.787,0.775,0.571,0.535
+Mamba,Nucleotide Transformer Tasks,promoter_all,promoter,8,0.966,0.954,0.932,0.909
+Mamba,Nucleotide Transformer Tasks,promoter_no_tata,promoter,8,0.967,0.953,0.927,0.907
+Mamba,Nucleotide Transformer Tasks,promoter_tata,promoter,8,0.951,0.942,0.905,error
+Mamba,Nucleotide Transformer Tasks,splice_sites_all,splice sites,8,0.942,0.627,0.070,error
+Mamba,Nucleotide Transformer Tasks,splice_sites_acceptors,splice sites,8,0.907,0.792,0.817,0.588
+Mamba,Nucleotide Transformer Tasks,splice_sites_donors,splice sites,8,0.899,0.760,0.794,0.530
+Mamba,Nucleotide Transformer Tasks,enhancers,enhancers,8,0.757,0.758,0.218,0.222
+Mamba,Nucleotide Transformer Tasks,enhancers_types,enhancers,8,0.609,0.628,0.223,0.284
+Mamba,GUE,prom_core_all,promoters,4,0.794,0.794,0.590,0.589
+Mamba,GUE,prom_core_notata,promoters,4,0.783,0.822,0.568,0.645
+Mamba,GUE,prom_core_tata,promoters,4,0.760,0.705,0.522,0.413
+Mamba,GUE,prom_300_all,promoters,4,0.911,0.803,0.824,0.900
+Mamba,GUE,prom_300_notata,promoters,4,0.962,0.947,0.924,0.894
+Mamba,GUE,prom_300_tata,promoters,4,0.717,0.593,0.436,0.186
+Mamba,GUE,splice_site_prediction,splice sites,4,0.592,0.573,0.660,0.644
+Mamba,GUE,human_tfp_0,transcription factors,4,0.824,0.816,0.689,0.679
+Mamba,GUE,human_tfp_1,transcription factors,4,0.840,0.833,0.675,0.539
+Mamba,GUE,human_tfp_2,transcription factors,4,0.835,0.766,0.530,0.449
+Mamba,GUE,human_tfp_3,transcription factors,4,0.762,0.721,0.755,0.666
+Mamba,GUE,human_tfp_4,transcription factors,4,0.877,0.828,0.162,0.210
+Mamba,GUE,mouse_tfp_0,transcription factors,4,0.767,0.691,0.546,0.387
+Mamba,GUE,mouse_tfp_1,transcription factors,4,0.913,0.877,0.826,0.754
+Mamba,GUE,mouse_tfp_2,transcription factors,4,0.907,0.827,0.819,0.657
+Mamba,GUE,mouse_tfp_3,transcription factors,4,0.856,0.685,0.717,0.373
+Mamba,GUE,mouse_tfp_4,transcription factors,4,0.716,0.664,0.434,0.329
+Mamba,Genomic Benchmark,demo_coding_vs_intergenomic_seqs,coding,4,0.913,0.886,0.768,0.758
+Mamba,Genomic Benchmark,dummy_mouse_enhancers_ensembl,enhancers,4,0.768,0.758,0.913,0.886
+Mamba,Genomic Benchmark,human_enhancers_cohn,enhancers,4,0.736,0.730,0.968,0.957
+Mamba,Genomic Benchmark,human_enhancers_ensembl,enhancers,4,0.864,0.864,0.736,0.730
+Mamba,Genomic Benchmark,human_nontata_promoters,promoters,4,0.920,0.914,0.864,0.864
+Mamba,Genomic Benchmark,human_ensembl_regulatory,regulatory,4,0.866,0.895,0.866,0.895
+Mamba,Genomic Benchmark,human_ocr_ensembl,regulatory,4,0.805,0.757,0.920,0.914
+Mamba,Genomic Benchmark,demo_human_or_worm,species,4,0.968,0.957,0.805,0.757
