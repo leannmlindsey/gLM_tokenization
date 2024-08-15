@@ -1,0 +1,135 @@
+Fungi,Ceratobasidium,655.37
+Fungi,Claviceps Maximensis,329.79
+Fungi,Fusarium Annulatum,449.98
+Fungi,Melampsora,699.52
+Fungi,Metschnikowia,109.36
+Fungi,Mucor Saturninus,391.17
+Fungi,Penicillium Chermesinum,275.81
+Fungi,Saccharomyces Cerevisiae,121.54
+Fungi,Sporopachydermia Quercuum,155.71
+Fungi,Tranzscheliella Williamsii,184.77
+Fungi,Xylariales,399.96
+Protozoa,Phytophthora Sojae,792.65
+Protozoa,Pythium Apiculatum,450.99
+Mammalian,Bubalus Bubalis,28768.00
+Mammalian,Camelus Dromedarius,19757.02
+Mammalian,Human,31372.10
+Mammalian,Macaca Assamensis,27593.76
+Mammalian,Macaca Nigra,28217.13
+Mammalian,Mus Musculus,26545.98
+Mammalian,Peromyscus Californicus,24677.56
+Invertebrate,Brachionus Rubens,1327.37
+Invertebrate,Ceroptres Masudai,12.95
+Invertebrate,Cotesia Typhae,1866.62
+Invertebrate,Croniades Pieria,3889.85
+Invertebrate,Drosophila Athabasca,1221.16
+Invertebrate,Emesis Russula,4848.08
+Invertebrate,Hydra Oligactis,12597.75
+Invertebrate,Meganola Albula,3604.25
+Invertebrate,Oscheius,383.21
+Invertebrate,Rutpela Maculata,20213.33
+Other Vertebrate,Anas Zonorhyncha,11697.08
+Other Vertebrate,Coregonus Clupeaformis,26824.02
+Other Vertebrate,Gnathonemus Longibarbis,7314.74
+Other Vertebrate,Myxocyprinus Asiaticus,23407.19
+Other Vertebrate,Rhipidura Dahli,10112.96
+Bacteria,Aeromonas,47.33
+Bacteria,Agrobacterium,97.22
+Bacteria,Alcaligenaceae Bacterium,20.88
+Bacteria,Aliivibrio,46.48
+Bacteria,Alphaproteobacteria Bacterium,14.22
+Bacteria,Amycolatopsis Antarctica,63.43
+Bacteria,Anaerostipes Faecis,32.00
+Bacteria,Arthrobacter,36.27
+Bacteria,Atopobium,28.63
+Bacteria,Bacillus Bc15,57.34
+Bacteria,Bacillus Bs3 2021,43.51
+Bacteria,Bacterium,7.54
+Bacteria,Bacteroidetes Bacterium Qs,8.99
+Bacteria,Breoghania Corrubedonensis,53.32
+Bacteria,Caldicoprobacter Oshimai,27.25
+Bacteria,Candidatus Cryptobacteroides Excrementipullorum,27.63
+Bacteria,Candidatus Dadabacteria Bacterium Rbg Combo,11.49
+Bacteria,Candidatus Dwaynia Gallinarum,16.82
+Bacteria,Candidatus Falkowbacteria Bacterium,13.88
+Bacteria,Candidatus Geothermincola Secundus,24.76
+Bacteria,Candidatus Gottesmanbacteria Bacterium,11.08
+Bacteria,Candidatus Nomurabacteria Bacterium Full,6.29
+Bacteria,Candidatus Portnoybacteria Bacterium Big Fil Rev,8.17
+Bacteria,Candidatus Regiella Insecticola,20.62
+Bacteria,Candidatus Roizmanbacteria Bacterium Combo All,11.13
+Bacteria,Candidatus Rokubacteria Bacterium,22.06
+Bacteria,Candidatus Saccharibacteria Bacterium,6.55
+Bacteria,Candidatus Staskawiczbacteria Bacterium Full,6.79
+Bacteria,Christensenella,18.75
+Bacteria,Clostridiaceae Bacterium,29.62
+Bacteria,Clostridiales Bacterium,16.59
+Bacteria,Clostridium Cag 505,21.26
+Bacteria,Clostridium Mcc328,36.43
+Bacteria,Clostridium Nexile,38.43
+Bacteria,Clostridium Uba3521,25.99
+Bacteria,Collinsella Urealyticum,19.45
+Bacteria,Coprobacillus Cateniformis,38.38
+Bacteria,Cyanobium,40.33
+Bacteria,Dehalococcoidia Bacterium,17.59
+Bacteria,Enterobacteriaceae Bacterium,41.46
+Bacteria,Evtepia Gabavorous,24.94
+Bacteria,Firmicutes Bacterium,36.66
+Bacteria,Fulvivirga,65.24
+Bacteria,Jeongeupia Chitinilytica,39.11
+Bacteria,Legionella Endosymbiont Of Polyplax Serrata,5.30
+Bacteria,Listeria Ilorinensis,30.31
+Bacteria,Maribacter Cobaltidurans,46.40
+Bacteria,Marinomonas,37.73
+Bacteria,Mesorhizobium,65.15
+Bacteria,Methyloceanibacter Caenitepidi,34.25
+Bacteria,Microvirga,68.63
+Bacteria,Mycolicibacter Engbaekii,45.21
+Bacteria,Novosphingobium,46.18
+Bacteria,Omnitrophica Wor Bacterium Rbg,12.52
+Bacteria,Pantoea,43.14
+Bacteria,Paraburkholderia Edwinii,82.99
+Bacteria,Parerythrobacter Lutipelagi,30.98
+Bacteria,Paulownia Witches Phytoplasma,8.92
+Bacteria,Polaromonas Eurypsychrophila,41.61
+Bacteria,Prevotella Ag 487 50 53,29.63
+Bacteria,Bacteria Prevotella Uba3619,31.72
+Bacteria,Prevotella Uba634,18.51
+Bacteria,Prochlorococcus Ag-321-I09,3.29
+Bacteria,Prochlorococcus Ag-363-B18,15.54
+Bacteria,Prochlorococcus Ag-402-L1911.17
+Bacteria,Prochlorococcus Scb243 498N4,14.12
+Bacteria,Providencia,41.89
+Bacteria,Pseudomonas 35 E 8,63.56
+Bacteria,Pseudomonas Bigb0408,59.52
+Bacteria,Pseudomonas P867,62.01
+Bacteria,Pseudomonas Promysalinigenes,50.47
+Bacteria,Roseobacter,44.14
+Bacteria,Salinicola Peritrichatus,46.19
+Bacteria,Salmonella S096 02912,48.09
+Bacteria,Salmonella Zj-F75,47.87
+Bacteria,Sinorhizobium,65.53
+Bacteria,Sodalis Ligni,63.85
+Bacteria,Sphaerochaeta,28.61
+Bacteria,Sphingobacterium,36.55
+Bacteria,Sphingomonas Carotinifaciens,37.53
+Bacteria,Sphingomonas Mesophil,22.91
+Bacteria,Sporosarcina Jiandibaonis,36.30
+Bacteria,Sporosarcina Ureilytica,34.37
+Bacteria,Staphylococcus Gdq20D1P,28.50
+Bacteria,Staphylococcus M0911,24.38
+Bacteria,Streptococcus,22.18
+Bacteria,Streptomyces 8401,88.39
+Bacteria,Streptomyces Di166,88.71
+Bacteria,Streptomyces Durbertensis,59.24
+Bacteria,Streptomyces Neau-Yj-81,118.84
+Bacteria,Streptomyces Rk74B,87.36
+Bacteria,Thermopetrobacter,26.06
+Bacteria,Uncultured Kushneria,35.31
+Bacteria,Uncultured Phascolarctobacterium,17.95
+Bacteria,Uncultured Proteus,35.66
+Bacteria,Verrucomicrobiales Bacterium,3.15
+Bacteria,Vibrio,41.47
+Bacteria,Victivallis Lenta,55.45
+Bacteria,Virgibacillus Salexigens,44.18
+Bacteria,Xanthomonadales Bacterium,37.47
