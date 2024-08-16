@@ -1,3 +1,4 @@
+model,task,replicate,metric,value
 mamba_bpe_4k_d128_4L_lr-8e-5_batch_size-256_rc_aug-true,demo_coding_vs_intergenomic_seqs,1,timer/validation,1.959606647491455
 mamba_bpe_4k_d128_4L_lr-8e-5_batch_size-256_rc_aug-true,demo_coding_vs_intergenomic_seqs,1,timestamp,1715386111.781414
 mamba_bpe_4k_d128_4L_lr-8e-5_batch_size-256_rc_aug-true,demo_coding_vs_intergenomic_seqs,1,runtime,357.6373510360718

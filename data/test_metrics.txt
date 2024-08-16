@@ -1,3 +1,4 @@
+model,task,replicate,metric,value
 mamba_bpe_4k_d128_4L_lr-8e-5_batch_size-256_rc_aug-true,demo_coding_vs_intergenomic_seqs,1,test/accuracy,0.8789600133895874
 mamba_bpe_4k_d128_4L_lr-8e-5_batch_size-256_rc_aug-true,demo_coding_vs_intergenomic_seqs,1,test/mcc,0.006796580914464659
 mamba_bpe_4k_d128_4L_lr-8e-5_batch_size-256_rc_aug-true,demo_coding_vs_intergenomic_seqs,1,test/loss,0.2933388352394104
