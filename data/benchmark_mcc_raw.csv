@@ -1,4 +1,4 @@
-Benchmark,Abb,Category,Dataset,CNN,GPT-2,NT-kmer,DNABERT1-kmer,DNABERT2-bpe,HyenaDNA-char,Mamba-char,Mamba-bpe,Caduceus-char
+Benchmark,Abb,Category,Dataset,label,CNN,GPT-2,NT-kmer,DNABERT1-kmer,DNABERT2-bpe,HyenaDNA-char,Mamba-char,Mamba-bpe,Caduceus-char
 Genomic Benchmark,GB,enhancers,dummy_mouse_enhancers_ensembl,GB-dummy_mouse_enhancers_ensembl,0.715,0.391,0.369,0.347,0.347,0.641,0.768,0.758,0.781
 Genomic Benchmark,GB,coding,demo_coding_vs_intergenomic_seqs,GB-demo_coding_vs_intergenomic_seqs,0.892,0.541,0.818,0.732,0.792,0.899,0.913,0.886,0.827
 Genomic Benchmark,GB,species,demo_human_or_worm,GB-demo_human_or_worm,0.942,0.595,0.891,0.816,0.853,0.958,0.968,0.957,0.963
