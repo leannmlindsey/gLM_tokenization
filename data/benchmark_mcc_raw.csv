@@ -1,53 +1,53 @@
-Benchmark,Category,Dataset,CNN,GPT-2,NT-kmer,DNABERT1-kmer,DNABERT2-bpe,HyenaDNA-char,Mamba-char,Mamba-bpe,Caduceus-char
-Genomic Benchmark,enhancers,dummy_mouse_enhancers_ensembl,0.715,0.391,0.369,0.347,0.347,0.641,0.768,0.758,0.781
-Genomic Benchmark,coding,demo_coding_vs_intergenomic_seqs,0.892,0.541,0.818,0.732,0.792,0.899,0.913,0.886,0.827
-Genomic Benchmark,species,demo_human_or_worm,0.942,0.595,0.891,0.816,0.853,0.958,0.968,0.957,0.963
-Genomic Benchmark,enhancers,human_enhancers_cohn,0.705,0.220,0.430,0.305,0.306,0.671,0.736,0.730,0.743
-Genomic Benchmark,enhancers,human_enhancers_ensembl,0.767,0.499,0.710,0.609,0.662,0.893,0.864,0.864,0.892
-Genomic Benchmark,regulatory,human_ensembl_regulatory,0.872,0.372,0.876,0.445,0.766,0.915,0.866,0.895,0.663
-Genomic Benchmark,promoters,human_nontata_promoters,0.860,0.426,0.734,0.573,0.650,0.914,0.920,0.914,0.947
-Genomic Benchmark,regulatory,human_ocr_ensembl,0.695,0.175,0.454,0.281,0.281,0.760,0.805,0.757,0.814
-GUE,promoters,prom_core_all,0.617,0.486,0.662,0.690,0.633,0.637,0.590,0.589,0.641
-GUE,promoters,prom_core_notata,0.618,0.514,0.673,0.698,0.680,0.663,0.568,0.645,0.676
-GUE,promoters,prom_core_tata,0.757,0.686,0.702,0.759,0.729,0.491,0.522,0.413,0.498
-GUE,promoters,prom_300_all,0.805,0.666,0.889,0.909,0.847,0.851,0.824,0.900,0.821
-GUE,promoters,prom_300_notata,0.871,0.741,0.915,0.929,0.929,0.918,0.924,0.894,0.925
-GUE,promoters,prom_300_tata,0.728,0.257,0.790,0.660,0.634,0.482,0.436,0.186,0.549
-GUE,transcription factors,human_tfp_0,0.584,0.572,0.648,0.666,0.668,0.634,0.660,0.644,0.673
-GUE,transcription factors,human_tfp_1,0.647,0.556,0.684,0.700,0.718,0.706,0.689,0.679,0.712
-GUE,transcription factors,human_tfp_2,0.544,0.428,0.526,0.624,0.652,0.648,0.675,0.539,0.734
-GUE,transcription factors,human_tfp_3,0.362,0.245,0.445,0.531,0.587,0.508,0.530,0.449,0.585
-GUE,transcription factors,human_tfp_4,0.632,0.510,0.667,0.703,0.764,0.701,0.755,0.666,0.784
-GUE,splice sites,splice_site_prediction,0.766,error,0.807,0.840,0.846,0.818,0.162,0.210,0.887
-GUE,transcription factors,mouse_tfp_0,0.293,0.136,0.326,0.452,0.597,0.503,0.546,0.387,0.588
-GUE,transcription factors,mouse_tfp_1,0.639,0.549,0.756,0.797,0.816,0.826,0.826,0.754,0.845
-GUE,transcription factors,mouse_tfp_2,0.585,0.507,0.621,0.709,0.825,0.790,0.819,0.657,0.853
-GUE,transcription factors,mouse_tfp_3,0.374,0.327,0.277,0.569,0.750,0.794,0.717,0.373,0.815
-GUE,transcription factors,mouse_tfp_4,0.310,0.126,0.360,0.414,0.462,0.471,0.434,0.329,0.498
-GUE,species,virus_covid,0.126,0.000,0.000,0.000,0.000,0.625,0.501,0.493,0.235
-GUE+,epi,K562,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-GUE+,epi,HeLa-S3,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-GUE+,epi,NHEK,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-GUE+,epi,IMR90,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-GUE+,epi,HUVEC,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-GUE+,epi,GM12878,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-GUE+,species,species_classification_fungi,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-GUE+,species,species_classification_virus,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
-Nucleotide Transformer Tasks,emp,H3,0.655,0.518,0.719,0.728,0.754,0.775,0.774,0.780,0.795
-Nucleotide Transformer Tasks,emp,H3K14ac,0.312,0.222,0.388,0.402,0.502,0.519,0.399,0.596,0.557
-Nucleotide Transformer Tasks,emp,H3K36me3,0.409,0.249,0.457,0.477,0.554,0.542,0.489,0.573,0.605
-Nucleotide Transformer Tasks,emp,H3K4me1,0.308,0.191,0.384,0.421,0.479,0.437,0.405,0.483,0.487
-Nucleotide Transformer Tasks,emp,H3K4me2,0.257,0.220,0.304,0.307,0.308,0.290,0.198,0.463,0.494
-Nucleotide Transformer Tasks,emp,H3K4me3,0.194,0.158,0.256,0.277,0.344,0.409,0.176,0.523,0.497
-Nucleotide Transformer Tasks,emp,H3K79me3,0.523,0.379,0.591,0.599,0.623,0.799,0.608,0.632,0.660
-Nucleotide Transformer Tasks,emp,H3K9ac,0.392,0.342,0.494,0.507,0.551,0.518,0.535,0.555,0.599
-Nucleotide Transformer Tasks,emp,H4,0.719,0.530,0.774,0.783,0.808,0.771,0.786,0.754,0.796
-Nucleotide Transformer Tasks,emp,H4ac,0.296,0.234,0.350,0.371,0.439,0.425,0.441,0.522,0.579
-Nucleotide Transformer Tasks,promoters,promoter_all,0.879,0.914,0.910,0.939,0.948,0.924,0.914,0.907,0.929
-Nucleotide Transformer Tasks,promoters,promoter_no_tata,0.876,0.903,0.907,0.929,0.939,0.923,0.931,0.908,0.925
-Nucleotide Transformer Tasks,promoters,promoter_tata,0.852,0.833,0.888,0.903,0.906,0.920,0.895,0.851,0.914
-Nucleotide Transformer Tasks,splice sites,splice_sites_all,0.955,0.332,0.966,0.968,0.899,0.938,0.924,0.341,0.912
-Nucleotide Transformer Tasks,splice sites,splice_sites_acceptors,0.921,0.162,0.930,0.943,0.923,0.896,0.827,0.593,0.944
-Nucleotide Transformer Tasks,splice sites,splice_sites_donors,0.933,0.235,0.944,0.950,0.927,0.886,0.776,0.536,0.889
-Nucleotide Transformer Tasks,enhancers,enhancers,0.431,0.446,0.793,0.711,0.680,0.491,0.224,0.522,0.516
-Nucleotide Transformer Tasks,enhancers,enhancers_types,0.347,0.432,0.710,0.629,0.640,0.368,0.256,0.386,0.423
+Benchmark,Abb,Category,Dataset,CNN,GPT-2,NT-kmer,DNABERT1-kmer,DNABERT2-bpe,HyenaDNA-char,Mamba-char,Mamba-bpe,Caduceus-char
+Genomic Benchmark,GB,enhancers,dummy_mouse_enhancers_ensembl,GB-dummy_mouse_enhancers_ensembl,0.715,0.391,0.369,0.347,0.347,0.641,0.768,0.758,0.781
+Genomic Benchmark,GB,coding,demo_coding_vs_intergenomic_seqs,GB-demo_coding_vs_intergenomic_seqs,0.892,0.541,0.818,0.732,0.792,0.899,0.913,0.886,0.827
+Genomic Benchmark,GB,species,demo_human_or_worm,GB-demo_human_or_worm,0.942,0.595,0.891,0.816,0.853,0.958,0.968,0.957,0.963
+Genomic Benchmark,GB,enhancers,human_enhancers_cohn,GB-human_enhancers_cohn,0.705,0.220,0.430,0.305,0.306,0.671,0.736,0.730,0.743
+Genomic Benchmark,GB,enhancers,human_enhancers_ensembl,GB-human_enhancers_ensembl,0.767,0.499,0.710,0.609,0.662,0.893,0.864,0.864,0.892
+Genomic Benchmark,GB,regulatory,human_ensembl_regulatory,GB-human_ensembl_regulatory,0.872,0.372,0.876,0.445,0.766,0.915,0.866,0.895,0.663
+Genomic Benchmark,GB,promoters,human_nontata_promoters,GB-human_nontata_promoters,0.860,0.426,0.734,0.573,0.650,0.914,0.920,0.914,0.947
+Genomic Benchmark,GB,regulatory,human_ocr_ensembl,GB-human_ocr_ensembl,0.695,0.175,0.454,0.281,0.281,0.760,0.805,0.757,0.814
+GUE,GUE,promoters,prom_core_all,GUE-prom_core_all,0.617,0.486,0.662,0.690,0.633,0.637,0.590,0.589,0.641
+GUE,GUE,promoters,prom_core_notata,GUE-prom_core_notata,0.618,0.514,0.673,0.698,0.680,0.663,0.568,0.645,0.676
+GUE,GUE,promoters,prom_core_tata,GUE-prom_core_tata,0.757,0.686,0.702,0.759,0.729,0.491,0.522,0.413,0.498
+GUE,GUE,promoters,prom_300_all,GUE-prom_300_all,0.805,0.666,0.889,0.909,0.847,0.851,0.824,0.900,0.821
+GUE,GUE,promoters,prom_300_notata,GUE-prom_300_notata,0.871,0.741,0.915,0.929,0.929,0.918,0.924,0.894,0.925
+GUE,GUE,promoters,prom_300_tata,GUE-prom_300_tata,0.728,0.257,0.790,0.660,0.634,0.482,0.436,0.186,0.549
+GUE,GUE,transcription factors,human_tfp_0,GUE-human_tfp_0,0.584,0.572,0.648,0.666,0.668,0.634,0.660,0.644,0.673
+GUE,GUE,transcription factors,human_tfp_1,GUE-human_tfp_1,0.647,0.556,0.684,0.700,0.718,0.706,0.689,0.679,0.712
+GUE,GUE,transcription factors,human_tfp_2,GUE-human_tfp_2,0.544,0.428,0.526,0.624,0.652,0.648,0.675,0.539,0.734
+GUE,GUE,transcription factors,human_tfp_3,GUE-human_tfp_3,0.362,0.245,0.445,0.531,0.587,0.508,0.530,0.449,0.585
+GUE,GUE,transcription factors,human_tfp_4,GUE-human_tfp_4,0.632,0.510,0.667,0.703,0.764,0.701,0.755,0.666,0.784
+GUE,GUE,splice sites,splice_site_prediction,GUE-splice_site_prediction,0.766,error,0.807,0.840,0.846,0.818,0.162,0.210,0.887
+GUE,GUE,transcription factors,mouse_tfp_0,GUE-mouse_tfp_0,0.293,0.136,0.326,0.452,0.597,0.503,0.546,0.387,0.588
+GUE,GUE,transcription factors,mouse_tfp_1,GUE-mouse_tfp_1,0.639,0.549,0.756,0.797,0.816,0.826,0.826,0.754,0.845
+GUE,GUE,transcription factors,mouse_tfp_2,GUE-mouse_tfp_2,0.585,0.507,0.621,0.709,0.825,0.790,0.819,0.657,0.853
+GUE,GUE,transcription factors,mouse_tfp_3,GUE-mouse_tfp_3,0.374,0.327,0.277,0.569,0.750,0.794,0.717,0.373,0.815
+GUE,GUE,transcription factors,mouse_tfp_4,GUE-mouse_tfp_4,0.310,0.126,0.360,0.414,0.462,0.471,0.434,0.329,0.498
+GUE,GUE,species,virus_covid,GUE-virus_covid,0.126,0.000,0.000,0.000,0.000,0.625,0.501,0.493,0.235
+GUE+,GUE+,epi,K562,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+GUE+,GUE+,epi,HeLa-S3,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+GUE+,GUE+,epi,NHEK,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+GUE+,GUE+,epi,IMR90,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+GUE+,GUE+,epi,HUVEC,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+GUE+,GUE+,epi,GM12878,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+GUE+,GUE+,species,species_classification_fungi,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+GUE+,GUE+,species,species_classification_virus,GUE+,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+Nucleotide Transformer Tasks,NTT,emp,H3,NTT-emp_H3,0.655,0.518,0.719,0.728,0.754,0.775,0.774,0.780,0.795
+Nucleotide Transformer Tasks,NTT,emp,H3K14ac,NTT-emp_H3K14ac,0.312,0.222,0.388,0.402,0.502,0.519,0.399,0.596,0.557
+Nucleotide Transformer Tasks,NTT,emp,H3K36me3,NTT-emp_H3K36me3,0.409,0.249,0.457,0.477,0.554,0.542,0.489,0.573,0.605
+Nucleotide Transformer Tasks,NTT,emp,H3K4me1,NTT-emp_H3K4me1,0.308,0.191,0.384,0.421,0.479,0.437,0.405,0.483,0.487
+Nucleotide Transformer Tasks,NTT,emp,H3K4me2,NTT-emp_H3K4me2,0.257,0.220,0.304,0.307,0.308,0.290,0.198,0.463,0.494
+Nucleotide Transformer Tasks,NTT,emp,H3K4me3,NTT-emp_H3K4me3,0.194,0.158,0.256,0.277,0.344,0.409,0.176,0.523,0.497
+Nucleotide Transformer Tasks,NTT,emp,H3K79me3,NTT-emp_H3K79me3,0.523,0.379,0.591,0.599,0.623,0.799,0.608,0.632,0.660
+Nucleotide Transformer Tasks,NTT,emp,H3K9ac,NTT-emp_H3K9ac,0.392,0.342,0.494,0.507,0.551,0.518,0.535,0.555,0.599
+Nucleotide Transformer Tasks,NTT,emp,H4,NTT_emp-H4,0.719,0.530,0.774,0.783,0.808,0.771,0.786,0.754,0.796
+Nucleotide Transformer Tasks,NTT,emp,H4ac,NTT-emp_H4ac,0.296,0.234,0.350,0.371,0.439,0.425,0.441,0.522,0.579
+Nucleotide Transformer Tasks,NTT,promoters,promoter_all,NTT-promoter_all,0.879,0.914,0.910,0.939,0.948,0.924,0.914,0.907,0.929
+Nucleotide Transformer Tasks,NTT,promoters,promoter_no_tata,NTT-promoter_no_tata,0.876,0.903,0.907,0.929,0.939,0.923,0.931,0.908,0.925
+Nucleotide Transformer Tasks,NTT,promoters,promoter_tata,NTT-promoter_tata,0.852,0.833,0.888,0.903,0.906,0.920,0.895,0.851,0.914
+Nucleotide Transformer Tasks,NTT,splice sites,splice_sites_all,NTT-splice_sites_all,0.955,0.332,0.966,0.968,0.899,0.938,0.924,0.341,0.912
+Nucleotide Transformer Tasks,NTT,splice sites,splice_sites_acceptors,NTT-splice_sites_acceptors,0.921,0.162,0.930,0.943,0.923,0.896,0.827,0.593,0.944
+Nucleotide Transformer Tasks,NTT,splice sites,splice_sites_donors,NTT-splice_sites_donors,0.933,0.235,0.944,0.950,0.927,0.886,0.776,0.536,0.889
+Nucleotide Transformer Tasks,NTT,enhancers,enhancers,NTT-enhancers,0.431,0.446,0.793,0.711,0.680,0.491,0.224,0.522,0.516
+Nucleotide Transformer Tasks,NTT,enhancers,enhancers_types,NTT-enhancers_types,0.347,0.432,0.710,0.629,0.640,0.368,0.256,0.386,0.423
